@@ -1,0 +1,15 @@
+{
+  "name": "pastel-cutie-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Just a cute pastel theme for guys, gals, and nonbinary pals.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/pastel-cutie-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
