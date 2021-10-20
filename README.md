@@ -2,4 +2,4 @@
 
 Just a cute pastel theme for guys, gals, and nonbinary pals.
 
-![A screenshot of your theme](pastel-cute-screenshot.png)
+![A screenshot of your theme](pastel-cutie-screenshot.png)
